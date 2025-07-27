@@ -15,7 +15,7 @@ We help aspiring web developers learn the **MERN Stack** through hands-on projec
 
 ## 🌐 Connect With Us
 
-💼 [YouTube](https://www.youtube.com/@srprogramist)
+💼 [YouTube](https://www.youtube.com/@srprogramist) <br/>
 📸 [Instagram](https://www.instagram.com/srprogramist)  
 🐦 [X (Twitter)](https://x.com/SRProgramist)  
 📌 [Pinterest](https://in.pinterest.com/srprogramist)  
